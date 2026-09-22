@@ -1,0 +1,15 @@
+# Data & Cache
+data/
+go-panel/data/
+log_files/
+go-panel/log_files/
+*.log
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+.env
+
+# Windows temp
+*.tmp

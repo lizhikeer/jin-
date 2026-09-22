@@ -1,0 +1,7 @@
+*.exe
+data/
+log_files/
+server.out
+deploy/
+*.md
+.git/
