@@ -1,8 +1,0 @@
-requests>=2.25.0
-beautifulsoup4>=4.9.0
-selenium>=3.141.0
-Pillow>=8.0.0
-pycryptodome>=3.10.0
-rsa>=4.7
-python-dotenv>=0.15.0
-lxml>=4.6.0
